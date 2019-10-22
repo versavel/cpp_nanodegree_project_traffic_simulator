@@ -1,5 +1,11 @@
 # CPPND: Program a Concurrent Traffic Simulation
 
+This repo contains my code for the Garbage Collector Project in the Object Oriented Programming Course of the Udacity C++ Nanodegree Program, Part 4: Memory Management.
+
+Starter code (1st commit), as well as all the content below, was provided by Udacity.
+
+-------
+
 <img src="data/traffic_simulation.gif"/>
 
 This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
